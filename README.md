@@ -1,2 +1,2 @@
 # Python
-Exercice Python
+Exercice Python application mathématiques
